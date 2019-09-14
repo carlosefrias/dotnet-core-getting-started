@@ -1,1 +1,9 @@
 /exercices/
+
+/DictationProcessor/uploads/
+
+/DictationProcessor/.idea/
+/DictationProcessor/.vscode/
+/DictationProcessor/bin/
+/DictationProcessor/obj/
+/DictationProcessor/ready_for_transcription/
